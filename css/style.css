@@ -1,0 +1,126 @@
+body
+{
+	font-family: 'Lobster', Helvetica,  Arial, sans-serif;
+	font-size: 2em;
+}
+
+/*Nav Start*/
+
+#nav
+{
+	background: none;
+	background-color: #f8f8f8;
+	border: none;
+	border-radius: 0;
+	border-bottom: 1px #a58f4e solid;
+	height: 110px;
+}
+
+#collpase
+{
+}
+
+#logo
+{
+	width: 100.25px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	position: absolute;
+	left: 50%;
+	margin-left: -50.125px;
+}
+
+#navLeft
+{
+	position: absolute;
+	right: 50%;
+	margin-right: 50px;
+}
+
+#navLeft li
+{
+	margin-top: 23px;
+}
+
+#navLeft li a
+{
+	color: #646461;
+	transition: ease 0.2s;
+	-webkit-transition: ease 0.2s;
+	-moz-transition: ease 0.2s;
+	-ms-transition: ease 0.2s;
+}
+
+#navLeft li a:hover
+{
+	color: #a58f4e;
+}
+
+#navRight
+{
+	position: absolute;
+	left: 50%;
+	margin-left: 50px;
+}
+
+#navRight li
+{
+	margin-top: 23px;
+}
+
+#navRight li a
+{
+	color: #646461;
+	transition: ease 0.2s;
+	-webkit-transition: ease 0.2s;
+	-moz-transition: ease 0.2s;
+	-ms-transition: ease 0.2s;
+}
+
+#navRight li a:hover
+{
+	color: #a58f4e;
+}
+
+/*Nav End*/
+
+.link
+{
+	margin-top: 20%;
+}
+
+#about
+{
+	font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+}
+
+#blog div
+{
+	border-bottom: 1px solid #a58f4e;
+}
+
+#blog div h2
+{
+	font-family: Helvetica, Arial, sans-serif;
+	margin-bottom: 20px;
+}
+
+#blog div p
+{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.blog_entry
+{
+	text-align: justify;
+}
+
+.jewelery
+{
+	margin-bottom: 20px;
+}
+
+#form a img
+{
+	margin-top: 10px;
+}
