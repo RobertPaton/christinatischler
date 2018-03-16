@@ -1,6 +1,6 @@
 <?php
 	// Set up connection credentials
-	$user = "rober375_robert";
+	$user = "";
 	$pass = "";
 	$url = "localhost";
 	$db = "db_christina";
