@@ -1,8 +1,7 @@
 <?php
 	// Set up connection credentials
 	$user = "rober375_robert";
-	$pass = "robertpatonlmn123";//PC
-	//$pass = "root";//Mac
+	$pass = "";
 	$url = "localhost";
 	$db = "rober375_db_christina";
 	$link = mysqli_connect($url,$user,$pass,$db);//PC
